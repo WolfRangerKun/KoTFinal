@@ -1,0 +1,1390 @@
+fileFormatVersion: 2
+guid: c74217b678db16344bcf439503110d3f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7905989596609139982
+    second: Corriendo Isaac Enemy_0
+  - first:
+      213: -5966678719012844770
+    second: Corriendo Isaac Enemy_1
+  - first:
+      213: 8814354343145022989
+    second: Corriendo Isaac Enemy_2
+  - first:
+      213: 8624992458160159727
+    second: Corriendo Isaac Enemy_3
+  - first:
+      213: 4941765399341764706
+    second: Corriendo Isaac Enemy_4
+  - first:
+      213: -4850923864172831573
+    second: Corriendo Isaac Enemy_5
+  - first:
+      213: -250425077286005425
+    second: Corriendo Isaac Enemy_6
+  - first:
+      213: 7993035917256703550
+    second: Corriendo Isaac Enemy_7
+  - first:
+      213: -529001936370061020
+    second: Corriendo Isaac Enemy_8
+  - first:
+      213: -7838052319601108207
+    second: Corriendo Isaac Enemy_9
+  - first:
+      213: 52802183737848277
+    second: Corriendo Isaac Enemy_10
+  - first:
+      213: -48962349928431347
+    second: Corriendo Isaac Enemy_11
+  - first:
+      213: -2990674704608218848
+    second: Corriendo Isaac Enemy_12
+  - first:
+      213: 1972304293603542504
+    second: Corriendo Isaac Enemy_13
+  - first:
+      213: 8546500496298959859
+    second: Corriendo Isaac Enemy_14
+  - first:
+      213: -7139203000032963727
+    second: Corriendo Isaac Enemy_15
+  - first:
+      213: -3437914236402378926
+    second: Corriendo Isaac Enemy_16
+  - first:
+      213: 7137794347055458277
+    second: Corriendo Isaac Enemy_17
+  - first:
+      213: -4827181561102443729
+    second: Corriendo Isaac Enemy_18
+  - first:
+      213: 5293975028366678699
+    second: Corriendo Isaac Enemy_19
+  - first:
+      213: -5965387586552310578
+    second: Corriendo Isaac Enemy_20
+  - first:
+      213: 6523282794955541958
+    second: Corriendo Isaac Enemy_21
+  - first:
+      213: -4177807612685787910
+    second: Corriendo Isaac Enemy_22
+  - first:
+      213: 6577346612057427258
+    second: Corriendo Isaac Enemy_23
+  - first:
+      213: 2040526731687582583
+    second: Corriendo Isaac Enemy_24
+  - first:
+      213: -3178925598233246089
+    second: Corriendo Isaac Enemy_25
+  - first:
+      213: -7345397916916483419
+    second: Corriendo Isaac Enemy_26
+  - first:
+      213: 3978505310951928972
+    second: Corriendo Isaac Enemy_27
+  - first:
+      213: -6156787858829159600
+    second: Corriendo Isaac Enemy_28
+  - first:
+      213: 1798311785142892822
+    second: Corriendo Isaac Enemy_29
+  - first:
+      213: 5347078533136250434
+    second: Corriendo Isaac Enemy_30
+  - first:
+      213: 8965993227991612842
+    second: Corriendo Isaac Enemy_31
+  - first:
+      213: 9008074066283499425
+    second: Corriendo Isaac Enemy_32
+  - first:
+      213: 3872268462645498504
+    second: Corriendo Isaac Enemy_33
+  - first:
+      213: 2935260238214993488
+    second: Corriendo Isaac Enemy_34
+  - first:
+      213: 2837652648618665564
+    second: Corriendo Isaac Enemy_35
+  - first:
+      213: 7378350200566725179
+    second: Corriendo Isaac Enemy_36
+  - first:
+      213: 4746906987771737531
+    second: Corriendo Isaac Enemy_37
+  - first:
+      213: -5537437530713585710
+    second: Corriendo Isaac Enemy_38
+  - first:
+      213: -3339762314123947309
+    second: Corriendo Isaac Enemy_39
+  - first:
+      213: 1853339122118901436
+    second: Corriendo Isaac Enemy_40
+  - first:
+      213: -1204850547087286589
+    second: Corriendo Isaac Enemy_41
+  - first:
+      213: 4266429473589128784
+    second: Corriendo Isaac Enemy_42
+  - first:
+      213: -560248655020841974
+    second: Corriendo Isaac Enemy_43
+  - first:
+      213: 4029341495298135290
+    second: Corriendo Isaac Enemy_44
+  - first:
+      213: 2035417467293952568
+    second: Corriendo Isaac Enemy_45
+  - first:
+      213: -4984390877620580604
+    second: Corriendo Isaac Enemy_46
+  - first:
+      213: -601280714350650313
+    second: Corriendo Isaac Enemy_47
+  - first:
+      213: 6522420507942071835
+    second: Corriendo Isaac Enemy_48
+  - first:
+      213: -1158012773731929789
+    second: Corriendo Isaac Enemy_49
+  - first:
+      213: 6024671201241805617
+    second: Corriendo Isaac Enemy_50
+  - first:
+      213: -4311411432988365410
+    second: Corriendo Isaac Enemy_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_0
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 8738
+        width: 973
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0552df76a7b7bd60800000000000000
+      internalID: 7905989596609139982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_1
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 8738
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b4b506159123da0800000000000000
+      internalID: -5966678719012844770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_2
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 8738
+        width: 967
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06a49b1390e25a70800000000000000
+      internalID: 8814354343145022989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_3
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 8738
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb3f0b81f022b770800000000000000
+      internalID: 8624992458160159727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_4
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 8739
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2601517b27da49440800000000000000
+      internalID: 4941765399341764706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 8739
+        width: 967
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bac5383627e0eacb0800000000000000
+      internalID: -4850923864172831573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 7659
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45948118bf468cf0800000000000000
+      internalID: -250425077286005425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_7
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 7664
+        width: 973
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3e360d51d7fcee60800000000000000
+      internalID: 7993035917256703550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_8
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 7664
+        width: 970
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4213b29aa8b98a8f0800000000000000
+      internalID: -529001936370061020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_9
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 7664
+        width: 973
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11bdf3f61f4a93390800000000000000
+      internalID: -7838052319601108207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_10
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 7664
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d13f0d6e479bb000800000000000000
+      internalID: 52802183737848277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 7664
+        width: 971
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01c52d800d025ff0800000000000000
+      internalID: -48962349928431347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 6584
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021b411933dfe76d0800000000000000
+      internalID: -2990674704608218848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_13
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 6584
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e587392e480f5b10800000000000000
+      internalID: 1972304293603542504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 6584
+        width: 971
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3699a8be44b9670800000000000000
+      internalID: 8546500496298959859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_15
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 6584
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173d1a352b47cec90800000000000000
+      internalID: -7139203000032963727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_16
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 6584
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2575af287331a40d0800000000000000
+      internalID: -3437914236402378926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_17
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 6584
+        width: 972
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e72808142a8e0360800000000000000
+      internalID: 7137794347055458277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 5504
+        width: 973
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b5c2812f7620db0800000000000000
+      internalID: -4827181561102443729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_19
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 5505
+        width: 973
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa95975d3af77940800000000000000
+      internalID: 5293975028366678699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_20
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 5510
+        width: 972
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45604989fa63da0800000000000000
+      internalID: -5965387586552310578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_21
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 5510
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0eb2e32b578a50800000000000000
+      internalID: 6523282794955541958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_22
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 5510
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afcd0f97c127506c0800000000000000
+      internalID: -4177807612685787910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_23
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 5510
+        width: 972
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d4d4835ed674b50800000000000000
+      internalID: 6577346612057427258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4430
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b5de45048615c10800000000000000
+      internalID: 2040526731687582583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_25
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 4430
+        width: 973
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77649e5d20032e3d0800000000000000
+      internalID: -3178925598233246089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_26
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 4430
+        width: 972
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa7c4c1387ef0a90800000000000000
+      internalID: -7345397916916483419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_27
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 4430
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c847b44508d763730800000000000000
+      internalID: 3978505310951928972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_28
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 4430
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053dc0dff02be8aa0800000000000000
+      internalID: -6156787858829159600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_29
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 4430
+        width: 972
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61937dc6a03e4f810800000000000000
+      internalID: 1798311785142892822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_30
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3350
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246f3b98893a43a40800000000000000
+      internalID: 5347078533136250434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_31
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 3345
+        width: 973
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7ff4465b9d6c70800000000000000
+      internalID: 8965993227991612842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_32
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 3344
+        width: 972
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af8c3fe2ab130d70800000000000000
+      internalID: 9008074066283499425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_33
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 3344
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882deee86af0db530800000000000000
+      internalID: 3872268462645498504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_34
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 3344
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056122e82a32cb820800000000000000
+      internalID: 2935260238214993488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_35
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 3344
+        width: 972
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56acd4ac0e516720800000000000000
+      internalID: 2837652648618665564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2264
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a363d4a6a256660800000000000000
+      internalID: 7378350200566725179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_37
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2264
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb534f351c660e140800000000000000
+      internalID: 4746906987771737531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_38
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 2264
+        width: 971
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d786e787e11723b0800000000000000
+      internalID: -5537437530713585710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_39
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 2264
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2d760ced7c6a1d0800000000000000
+      internalID: -3339762314123947309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_40
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 2264
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe3b36bc1268b910800000000000000
+      internalID: 1853339122118901436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_41
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 2264
+        width: 970
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce5d6d9fc2874fe0800000000000000
+      internalID: -1204850547087286589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1184
+        width: 973
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e69807007653b30800000000000000
+      internalID: 4266429473589128784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_43
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1184
+        width: 973
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04a79b01d89938f0800000000000000
+      internalID: -560248655020841974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_44
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 1179
+        width: 970
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af49cf9ddb81be730800000000000000
+      internalID: 4029341495298135290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_45
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 1179
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6ea307614f3c10800000000000000
+      internalID: 2035417467293952568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_46
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 1179
+        width: 973
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f4abdb7e2e3dab0800000000000000
+      internalID: -4984390877620580604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_47
+      rect:
+        serializedVersion: 2
+        x: 10083
+        y: 1178
+        width: 967
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c16d24062d7a7f0800000000000000
+      internalID: -601280714350650313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_48
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 98
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e2c9b05ea448a50800000000000000
+      internalID: 6522420507942071835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_49
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 98
+        width: 973
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341f7588489edefe0800000000000000
+      internalID: -1158012773731929789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_50
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 98
+        width: 967
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1333b86998eeb9350800000000000000
+      internalID: 6024671201241805617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Corriendo Isaac Enemy_51
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 98
+        width: 973
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dab20052aca24c0800000000000000
+      internalID: -4311411432988365410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

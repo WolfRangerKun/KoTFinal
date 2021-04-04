@@ -1,0 +1,1390 @@
+fileFormatVersion: 2
+guid: 48cbd04b1217f8b4aa5025c0aeea4942
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3276944849112865537
+    second: Salto Isaac Enemy_0
+  - first:
+      213: 5793359030581704085
+    second: Salto Isaac Enemy_1
+  - first:
+      213: 5493464154633360774
+    second: Salto Isaac Enemy_2
+  - first:
+      213: 4829234492645357586
+    second: Salto Isaac Enemy_3
+  - first:
+      213: 6800458628375557962
+    second: Salto Isaac Enemy_4
+  - first:
+      213: -7751048381500232016
+    second: Salto Isaac Enemy_5
+  - first:
+      213: 80461643932181739
+    second: Salto Isaac Enemy_6
+  - first:
+      213: -429953067481722174
+    second: Salto Isaac Enemy_7
+  - first:
+      213: 6469898156761828665
+    second: Salto Isaac Enemy_8
+  - first:
+      213: 912436443290765513
+    second: Salto Isaac Enemy_9
+  - first:
+      213: 3084829767123335368
+    second: Salto Isaac Enemy_10
+  - first:
+      213: -8845246188463915149
+    second: Salto Isaac Enemy_11
+  - first:
+      213: 2338768265916578100
+    second: Salto Isaac Enemy_12
+  - first:
+      213: -716795472120328431
+    second: Salto Isaac Enemy_13
+  - first:
+      213: 4654670113762169891
+    second: Salto Isaac Enemy_14
+  - first:
+      213: -4752577676822984437
+    second: Salto Isaac Enemy_15
+  - first:
+      213: 9014156815178761126
+    second: Salto Isaac Enemy_16
+  - first:
+      213: 6727666086697896154
+    second: Salto Isaac Enemy_17
+  - first:
+      213: -3642348963837193161
+    second: Salto Isaac Enemy_18
+  - first:
+      213: 4016084618807629056
+    second: Salto Isaac Enemy_19
+  - first:
+      213: -7400187856873829988
+    second: Salto Isaac Enemy_20
+  - first:
+      213: -2485780369296012791
+    second: Salto Isaac Enemy_21
+  - first:
+      213: -8164060627654466497
+    second: Salto Isaac Enemy_22
+  - first:
+      213: -8563825190757751564
+    second: Salto Isaac Enemy_23
+  - first:
+      213: -8899151153304934652
+    second: Salto Isaac Enemy_24
+  - first:
+      213: -4731673883418656193
+    second: Salto Isaac Enemy_25
+  - first:
+      213: -1833664733583801909
+    second: Salto Isaac Enemy_26
+  - first:
+      213: 1579143024586726482
+    second: Salto Isaac Enemy_27
+  - first:
+      213: -3001672084811895353
+    second: Salto Isaac Enemy_28
+  - first:
+      213: -1394711768964001000
+    second: Salto Isaac Enemy_29
+  - first:
+      213: -3638869767707723095
+    second: Salto Isaac Enemy_30
+  - first:
+      213: -816703656669217626
+    second: Salto Isaac Enemy_31
+  - first:
+      213: -505749385057380414
+    second: Salto Isaac Enemy_32
+  - first:
+      213: 5253330124608449883
+    second: Salto Isaac Enemy_33
+  - first:
+      213: -535754170499605995
+    second: Salto Isaac Enemy_34
+  - first:
+      213: -4819060309026741832
+    second: Salto Isaac Enemy_35
+  - first:
+      213: -835315571200301591
+    second: Salto Isaac Enemy_36
+  - first:
+      213: 3140723961810217914
+    second: Salto Isaac Enemy_37
+  - first:
+      213: 1480958452454223801
+    second: Salto Isaac Enemy_38
+  - first:
+      213: -88796373964831823
+    second: Salto Isaac Enemy_39
+  - first:
+      213: -6428290045849836323
+    second: Salto Isaac Enemy_40
+  - first:
+      213: 5873526794012238631
+    second: Salto Isaac Enemy_41
+  - first:
+      213: 7172422875224042917
+    second: Salto Isaac Enemy_42
+  - first:
+      213: -2221757654674844615
+    second: Salto Isaac Enemy_43
+  - first:
+      213: -3749125199480661849
+    second: Salto Isaac Enemy_44
+  - first:
+      213: 1583786904912482195
+    second: Salto Isaac Enemy_45
+  - first:
+      213: -3531975521620531344
+    second: Salto Isaac Enemy_46
+  - first:
+      213: -6264656323986289915
+    second: Salto Isaac Enemy_47
+  - first:
+      213: -8056544780647259699
+    second: Salto Isaac Enemy_48
+  - first:
+      213: 4296728907961306126
+    second: Salto Isaac Enemy_49
+  - first:
+      213: -7293241969100292083
+    second: Salto Isaac Enemy_50
+  - first:
+      213: -2291385753152792735
+    second: Salto Isaac Enemy_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_0
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 8755
+        width: 962
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4e4109504f582d0800000000000000
+      internalID: -3276944849112865537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_1
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 8755
+        width: 962
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595bf120855266050800000000000000
+      internalID: 5793359030581704085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_2
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 8753
+        width: 959
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68553430b84bc3c40800000000000000
+      internalID: 5493464154633360774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_3
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 8753
+        width: 962
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 218b0374f23e40340800000000000000
+      internalID: 4829234492645357586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_4
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 8751
+        width: 956
+        height: 865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b0169715106e50800000000000000
+      internalID: 6800458628375557962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 10094
+        y: 8750
+        width: 961
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0beefc7509ebe6490800000000000000
+      internalID: -7751048381500232016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 7670
+        width: 956
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be42f98507bdd1100800000000000000
+      internalID: 80461643932181739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_7
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 7670
+        width: 956
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c299ae86ff780af0800000000000000
+      internalID: -429953067481722174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_8
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 7670
+        width: 960
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d4eb63812b9c950800000000000000
+      internalID: 6469898156761828665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_9
+      rect:
+        serializedVersion: 2
+        x: 6258
+        y: 7670
+        width: 956
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c887726c10a9ac00800000000000000
+      internalID: 912436443290765513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_10
+      rect:
+        serializedVersion: 2
+        x: 8182
+        y: 7670
+        width: 950
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8ffed34548fca20800000000000000
+      internalID: 3084829767123335368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 10100
+        y: 7670
+        width: 956
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ffab9a47f5f3580800000000000000
+      internalID: -8845246188463915149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 6590
+        width: 951
+        height: 882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439f9e5b859f47020800000000000000
+      internalID: 2338768265916578100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_13
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 6590
+        width: 950
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11fc8abd05e6d06f0800000000000000
+      internalID: -716795472120328431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 4341
+        y: 6590
+        width: 955
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324db659ec5b89040800000000000000
+      internalID: 4654670113762169891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_15
+      rect:
+        serializedVersion: 2
+        x: 6263
+        y: 6590
+        width: 951
+        height: 885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09c38d78c37b0eb0800000000000000
+      internalID: -4752577676822984437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_16
+      rect:
+        serializedVersion: 2
+        x: 8182
+        y: 6590
+        width: 950
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a385664dd7b81d70800000000000000
+      internalID: 9014156815178761126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_17
+      rect:
+        serializedVersion: 2
+        x: 10105
+        y: 6590
+        width: 951
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8021149a87d5d50800000000000000
+      internalID: 6727666086697896154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_18
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 5510
+        width: 950
+        height: 888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734d8765ae6c37dc0800000000000000
+      internalID: -3642348963837193161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_19
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 5510
+        width: 945
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00550f3ceaffbb730800000000000000
+      internalID: 4016084618807629056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_20
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 5510
+        width: 951
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9940ef1a504d4990800000000000000
+      internalID: -7400187856873829988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_21
+      rect:
+        serializedVersion: 2
+        x: 6269
+        y: 5515
+        width: 945
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac872acebb08dd0800000000000000
+      internalID: -2485780369296012791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_22
+      rect:
+        serializedVersion: 2
+        x: 8187
+        y: 5515
+        width: 945
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3427eb3d1e63be80800000000000000
+      internalID: -8164060627654466497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_23
+      rect:
+        serializedVersion: 2
+        x: 10111
+        y: 5515
+        width: 945
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4a752bc5e272980800000000000000
+      internalID: -8563825190757751564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_24
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 4435
+        width: 945
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40760c00d2ddf7480800000000000000
+      internalID: -8899151153304934652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_25
+      rect:
+        serializedVersion: 2
+        x: 2427
+        y: 4435
+        width: 945
+        height: 900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3286d92ca7b55eb0800000000000000
+      internalID: -4731673883418656193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_26
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 4441
+        width: 945
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc18395d3a38d86e0800000000000000
+      internalID: -1833664733583801909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_27
+      rect:
+        serializedVersion: 2
+        x: 6269
+        y: 4447
+        width: 945
+        height: 887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c1706d63e3ae510800000000000000
+      internalID: 1579143024586726482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_28
+      rect:
+        serializedVersion: 2
+        x: 8193
+        y: 4452
+        width: 945
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cda494742be756d0800000000000000
+      internalID: -3001672084811895353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_29
+      rect:
+        serializedVersion: 2
+        x: 10111
+        y: 4458
+        width: 945
+        height: 872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81318de190df4ace0800000000000000
+      internalID: -1394711768964001000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_30
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 3383
+        width: 945
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa7fdfc933208dc0800000000000000
+      internalID: -3638869767707723095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_31
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 3389
+        width: 945
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acf771f95c7aa4f0800000000000000
+      internalID: -816703656669217626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_32
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 3383
+        width: 945
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c758462d973bf8f0800000000000000
+      internalID: -505749385057380414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_33
+      rect:
+        serializedVersion: 2
+        x: 6269
+        y: 3383
+        width: 945
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d252d3ae397e840800000000000000
+      internalID: 5253330124608449883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_34
+      rect:
+        serializedVersion: 2
+        x: 8193
+        y: 3372
+        width: 945
+        height: 878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51adf64ab6e9098f0800000000000000
+      internalID: -535754170499605995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_35
+      rect:
+        serializedVersion: 2
+        x: 10111
+        y: 3361
+        width: 945
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1e6417e224f1db0800000000000000
+      internalID: -4819060309026741832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_36
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2264
+        width: 951
+        height: 906
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5e047e9ec5864f0800000000000000
+      internalID: -835315571200301591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_37
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 2253
+        width: 950
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb61419dc7169b20800000000000000
+      internalID: 3140723961810217914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_38
+      rect:
+        serializedVersion: 2
+        x: 4345
+        y: 2248
+        width: 951
+        height: 916
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf65a5bddb6d8410800000000000000
+      internalID: 1480958452454223801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_39
+      rect:
+        serializedVersion: 2
+        x: 6264
+        y: 2247
+        width: 950
+        height: 917
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3cb781b2884cef0800000000000000
+      internalID: -88796373964831823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_40
+      rect:
+        serializedVersion: 2
+        x: 8182
+        y: 2253
+        width: 956
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4e0f703402ac6a0800000000000000
+      internalID: -6428290045849836323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_41
+      rect:
+        serializedVersion: 2
+        x: 10101
+        y: 2253
+        width: 955
+        height: 905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723a6d7ff75f28150800000000000000
+      internalID: 5873526794012238631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_42
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1178
+        width: 951
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad6d989a90998360800000000000000
+      internalID: 7172422875224042917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_43
+      rect:
+        serializedVersion: 2
+        x: 2422
+        y: 1178
+        width: 955
+        height: 895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 934d9183f2bba21e0800000000000000
+      internalID: -2221757654674844615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_44
+      rect:
+        serializedVersion: 2
+        x: 4340
+        y: 1184
+        width: 956
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a85d7aae7e68fbc0800000000000000
+      internalID: -3749125199480661849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_45
+      rect:
+        serializedVersion: 2
+        x: 6258
+        y: 1184
+        width: 956
+        height: 883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f493b7ccdbaf510800000000000000
+      internalID: 1583786904912482195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_46
+      rect:
+        serializedVersion: 2
+        x: 8176
+        y: 1185
+        width: 956
+        height: 877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077ee6ee9f6ebfec0800000000000000
+      internalID: -3531975521620531344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_47
+      rect:
+        serializedVersion: 2
+        x: 10094
+        y: 1190
+        width: 962
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b84e0d3487f09a0800000000000000
+      internalID: -6264656323986289915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_48
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 110
+        width: 962
+        height: 866
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc12e781537613090800000000000000
+      internalID: -8056544780647259699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_49
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 115
+        width: 962
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c8f2f3d2c01ab30800000000000000
+      internalID: 4296728907961306126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_50
+      rect:
+        serializedVersion: 2
+        x: 4329
+        y: 115
+        width: 961
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d008ec2021339ca90800000000000000
+      internalID: -7293241969100292083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Salto Isaac Enemy_51
+      rect:
+        serializedVersion: 2
+        x: 6252
+        y: 115
+        width: 962
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167dfeb3ccc5330e0800000000000000
+      internalID: -2291385753152792735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

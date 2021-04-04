@@ -1,0 +1,1390 @@
+fileFormatVersion: 2
+guid: 7ba0abb05321aad47afb02871abea0cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3321698543564553790
+    second: Idle Isaac Enemy_0
+  - first:
+      213: 265094456974919798
+    second: Idle Isaac Enemy_1
+  - first:
+      213: 7177981613312807275
+    second: Idle Isaac Enemy_2
+  - first:
+      213: -4768105347075951357
+    second: Idle Isaac Enemy_3
+  - first:
+      213: 4906170963854394333
+    second: Idle Isaac Enemy_4
+  - first:
+      213: -1070934888328574086
+    second: Idle Isaac Enemy_5
+  - first:
+      213: 1896847638210704661
+    second: Idle Isaac Enemy_6
+  - first:
+      213: 5150182481305738660
+    second: Idle Isaac Enemy_7
+  - first:
+      213: 1412151980533946705
+    second: Idle Isaac Enemy_8
+  - first:
+      213: 8662551118731101967
+    second: Idle Isaac Enemy_9
+  - first:
+      213: -3058450198450477875
+    second: Idle Isaac Enemy_10
+  - first:
+      213: 1458802085032443371
+    second: Idle Isaac Enemy_11
+  - first:
+      213: 8753826796728656522
+    second: Idle Isaac Enemy_12
+  - first:
+      213: 4423833142657445171
+    second: Idle Isaac Enemy_13
+  - first:
+      213: 2913250151023305615
+    second: Idle Isaac Enemy_14
+  - first:
+      213: 1182724670643134294
+    second: Idle Isaac Enemy_15
+  - first:
+      213: 8292402926673705748
+    second: Idle Isaac Enemy_16
+  - first:
+      213: -1145574225747453687
+    second: Idle Isaac Enemy_17
+  - first:
+      213: 6983562641072399501
+    second: Idle Isaac Enemy_18
+  - first:
+      213: -8113893086665822337
+    second: Idle Isaac Enemy_19
+  - first:
+      213: 9221329132846975602
+    second: Idle Isaac Enemy_20
+  - first:
+      213: 8906368965591260015
+    second: Idle Isaac Enemy_21
+  - first:
+      213: 833996454839366184
+    second: Idle Isaac Enemy_22
+  - first:
+      213: 5254669837633479639
+    second: Idle Isaac Enemy_23
+  - first:
+      213: 8665962301843208569
+    second: Idle Isaac Enemy_24
+  - first:
+      213: -2500695284235917563
+    second: Idle Isaac Enemy_25
+  - first:
+      213: 6688884591964915043
+    second: Idle Isaac Enemy_26
+  - first:
+      213: -2220072229263741593
+    second: Idle Isaac Enemy_27
+  - first:
+      213: -3352000308996085450
+    second: Idle Isaac Enemy_28
+  - first:
+      213: -4540717987414990930
+    second: Idle Isaac Enemy_29
+  - first:
+      213: -3552037348191199875
+    second: Idle Isaac Enemy_30
+  - first:
+      213: 8056784251320690395
+    second: Idle Isaac Enemy_31
+  - first:
+      213: -4591819150892015706
+    second: Idle Isaac Enemy_32
+  - first:
+      213: 6656968927245131261
+    second: Idle Isaac Enemy_33
+  - first:
+      213: 8192500777778528193
+    second: Idle Isaac Enemy_34
+  - first:
+      213: -6902218459323043092
+    second: Idle Isaac Enemy_35
+  - first:
+      213: -9042753790021782425
+    second: Idle Isaac Enemy_36
+  - first:
+      213: -2466775849183675296
+    second: Idle Isaac Enemy_37
+  - first:
+      213: -2510652269660507630
+    second: Idle Isaac Enemy_38
+  - first:
+      213: -9184137735747186099
+    second: Idle Isaac Enemy_39
+  - first:
+      213: -6022140606295593921
+    second: Idle Isaac Enemy_40
+  - first:
+      213: 1684546298279826797
+    second: Idle Isaac Enemy_41
+  - first:
+      213: -5584941180464574698
+    second: Idle Isaac Enemy_42
+  - first:
+      213: 688632804954791850
+    second: Idle Isaac Enemy_43
+  - first:
+      213: 2698758530501936877
+    second: Idle Isaac Enemy_44
+  - first:
+      213: 4669503663019109528
+    second: Idle Isaac Enemy_45
+  - first:
+      213: -1150530812422753095
+    second: Idle Isaac Enemy_46
+  - first:
+      213: 3051085923573997667
+    second: Idle Isaac Enemy_47
+  - first:
+      213: 5560456722061775430
+    second: Idle Isaac Enemy_48
+  - first:
+      213: -2973102507052898391
+    second: Idle Isaac Enemy_49
+  - first:
+      213: -7055262981529189877
+    second: Idle Isaac Enemy_50
+  - first:
+      213: -8558078112470586811
+    second: Idle Isaac Enemy_51
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_0
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 8755
+        width: 962
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ef81ce93b091e20800000000000000
+      internalID: 3321698543564553790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_1
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 8755
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6784aeb010ecda300800000000000000
+      internalID: 265094456974919798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_2
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 8755
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b619bc92f305d9360800000000000000
+      internalID: 7177981613312807275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_3
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 8755
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305b5e7037944ddb0800000000000000
+      internalID: -4768105347075951357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_4
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 8755
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd380e36f78361440800000000000000
+      internalID: 4906170963854394333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_5
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 8755
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b4a93a4664321f0800000000000000
+      internalID: -1070934888328574086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_6
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 7675
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515769480e4f25a10800000000000000
+      internalID: 1896847638210704661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_7
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 7675
+        width: 962
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad1bae0eaf197740800000000000000
+      internalID: 5150182481305738660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_8
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 7675
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15917909eb8f89310800000000000000
+      internalID: 1412151980533946705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_9
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 7675
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0741a8a850973870800000000000000
+      internalID: 8662551118731101967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_10
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 7675
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4e226bfb33e85d0800000000000000
+      internalID: -3058450198450477875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_11
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 7675
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed35fb64c4be3410800000000000000
+      internalID: 1458802085032443371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 6595
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82ae448717db7970800000000000000
+      internalID: 8753826796728656522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_13
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 6595
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d62b50ecc946d30800000000000000
+      internalID: 4423833142657445171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_14
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 6595
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f83e899c391fd6820800000000000000
+      internalID: 2913250151023305615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_15
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 6595
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65f56c452d1e96010800000000000000
+      internalID: 1182724670643134294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_16
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 6595
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41bbbcad688841370800000000000000
+      internalID: 8292402926673705748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_17
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 6595
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909da7aaf4a1a10f0800000000000000
+      internalID: -1145574225747453687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_18
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 5515
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d842fc7b8399ae060800000000000000
+      internalID: 6983562641072399501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_19
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 5515
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f29c71a39a56f80800000000000000
+      internalID: -8113893086665822337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_20
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 5515
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a0e485dfdb8ff70800000000000000
+      internalID: 9221329132846975602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_21
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 5515
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b51a0e267c99b70800000000000000
+      internalID: 8906368965591260015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_22
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 5515
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 822b2a26b53f29b00800000000000000
+      internalID: 833996454839366184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_23
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 5515
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d36a1c70665ce840800000000000000
+      internalID: 5254669837633479639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_24
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 4435
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9797a4e9ccea34870800000000000000
+      internalID: 8665962301843208569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_25
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 4435
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507af9363eebb4dd0800000000000000
+      internalID: -2500695284235917563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_26
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 4435
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36507afd811b3dc50800000000000000
+      internalID: 6688884591964915043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_27
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 4435
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d6607e118b031e0800000000000000
+      internalID: -2220072229263741593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_28
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 4435
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639e9478a7d4b71d0800000000000000
+      internalID: -3352000308996085450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_29
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 4435
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf17e65c012cf0c0800000000000000
+      internalID: -4540717987414990930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_30
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 3355
+        width: 962
+        height: 838
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d9420f9d0a4bec0800000000000000
+      internalID: -3552037348191199875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_31
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 3355
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66ee307927fcf60800000000000000
+      internalID: 8056784251320690395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_32
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 3355
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afde3e8fc49640c0800000000000000
+      internalID: -4591819150892015706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_33
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 3355
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd524d18fd426c50800000000000000
+      internalID: 6656968927245131261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_34
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 3355
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cfb9993d0c91b170800000000000000
+      internalID: 8192500777778528193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_35
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 3355
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2f7e971e46630a0800000000000000
+      internalID: -6902218459323043092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_36
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 2275
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643f6aa65fa18280800000000000000
+      internalID: -9042753790021782425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_37
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 2275
+        width: 962
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06cf4e84f6044cdd0800000000000000
+      internalID: -2466775849183675296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_38
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 2275
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2127b50101f582dd0800000000000000
+      internalID: -2510652269660507630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_39
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 2275
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42578493636b8080800000000000000
+      internalID: -9184137735747186099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_40
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 2275
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cab46760f0d6ca0800000000000000
+      internalID: -6022140606295593921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_41
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 2275
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d651ba4eee5b06710800000000000000
+      internalID: 1684546298279826797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_42
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1195
+        width: 962
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f45fe269d4e72b0800000000000000
+      internalID: -5584941180464574698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_43
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1195
+        width: 962
+        height: 852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd20833e38e8900800000000000000
+      internalID: 688632804954791850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_44
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 1195
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de68f19b59ae37520800000000000000
+      internalID: 2698758530501936877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_45
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 1195
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ca3a767d86dc040800000000000000
+      internalID: 4669503663019109528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_46
+      rect:
+        serializedVersion: 2
+        x: 8159
+        y: 1195
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b47666625e7800f0800000000000000
+      internalID: -1150530812422753095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_47
+      rect:
+        serializedVersion: 2
+        x: 10077
+        y: 1195
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360a2dd6b72a75a20800000000000000
+      internalID: 3051085923573997667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_48
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 115
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642dc6b9de5ba2d40800000000000000
+      internalID: 5560456722061775430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_49
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 115
+        width: 962
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7e942a50b6db6d0800000000000000
+      internalID: -2973102507052898391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_50
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 115
+        width: 962
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b024dfcd2bba61e90800000000000000
+      internalID: -7055262981529189877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Idle Isaac Enemy_51
+      rect:
+        serializedVersion: 2
+        x: 6241
+        y: 115
+        width: 962
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a2522ac499b3980800000000000000
+      internalID: -8558078112470586811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
