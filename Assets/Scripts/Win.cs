@@ -21,4 +21,5 @@ public class Win : MonoBehaviour
     {
         SceneManager.LoadScene("SceneKoT");
     }
+
 }
