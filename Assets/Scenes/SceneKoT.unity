@@ -2912,6 +2912,8 @@ MonoBehaviour:
   target: {fileID: 0}
   speed: 3
   Cangrejo: {fileID: 1176376385}
+  ida: 0
+  vuelta: 0
 --- !u!1 &1181960227
 GameObject:
   m_ObjectHideFlags: 0
@@ -4846,7 +4848,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300000, guid: dad6b93fba9286f4fb00f5ead71b7388, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
