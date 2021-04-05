@@ -33,11 +33,11 @@ public class PlayerMovement : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && Detection.isGrounded)
+        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Fire1")) && Detection.isGrounded)
         {
             rbody2D.velocity = new Vector2(rbody2D.velocity.x, jumpForce);
         }
-        if (Input.GetKeyDown(KeyCode.Space) && !Detection.isGrounded && Detection.isWall == true)
+        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Fire1")) && !Detection.isGrounded && Detection.isWall == true)
         {
             rbody2D.velocity = new Vector2(rbody2D.velocity.x, jumpForce);
             if (movement)
