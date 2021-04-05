@@ -2914,6 +2914,10 @@ MonoBehaviour:
   Cangrejo: {fileID: 1176376385}
   ida: 0
   vuelta: 0
+  suelo: 0
+  techo: 0
+  paredIzq: 0
+  paredDer: 0
 --- !u!1 &1181960227
 GameObject:
   m_ObjectHideFlags: 0
@@ -3130,7 +3134,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!114 &1333684979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -5006,7 +5010,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &2055688738
 Transform:
   m_ObjectHideFlags: 0
