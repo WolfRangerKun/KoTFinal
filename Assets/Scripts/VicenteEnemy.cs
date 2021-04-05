@@ -9,11 +9,26 @@ public class VicenteEnemy : MonoBehaviour
     public Transform target;
     public float speed = 3;
     public Animator Cangrejo;
+    public bool ida;
+    public bool vuelta;
     private void Start()
     {
         target = ref1;
+        ida = true;
+        vuelta = false;
     }
     private void Update()
+    {
+        if (ida == true)
+        {
+            Ida();
+        }
+        if (vuelta == true)
+        {
+            Vuelta();
+        }
+    }
+    private void Ida()
     {
         if (Vector3.Distance(theTransform.position, target.position) > 0.1f)
         {
@@ -60,6 +75,61 @@ public class VicenteEnemy : MonoBehaviour
             else if (target == ref10)
             {
                 target = ref11;
+                ida = false;
+                vuelta = true;
+            }
+        }
+    }
+
+    private void Vuelta()
+    {
+        if (Vector3.Distance(theTransform.position, target.position) > 0.1f)
+        {
+            theTransform.position = Vector3.MoveTowards(theTransform.position, target.position, speed * Time.deltaTime);
+        }
+        else
+        {
+            if (target == ref11)
+            {
+                target = ref10;
+            }
+            else if (target == ref10)
+            {
+                target = ref9;
+            }
+            else if (target == ref9)
+            {
+                target = ref8;
+            }
+            else if (target == ref8)
+            {
+                target = ref7;
+            }
+            else if (target == ref7)
+            {
+                target = ref6;
+            }
+            else if (target == ref6)
+            {
+                target = ref5;
+            }
+            else if (target == ref5)
+            {
+                target = ref4;
+            }
+            else if (target == ref4)
+            {
+                target = ref3;
+            }
+            else if (target == ref3)
+            {
+                target = ref2;
+            }
+            else if (target == ref2)
+            {
+                target = ref1;
+                ida = true;
+                vuelta = false;
             }
         }
     }
